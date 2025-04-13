@@ -1,0 +1,29 @@
+# Hexo folders
+node_modules/
+public/
+.deploy*/
+.DS_Store
+Thumbs.db
+db.json
+
+# System files
+*.log
+*.swp
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Optional Hexo plugins cache
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Hexo generated files
+*.pid
+
+# Git backup files
+*.orig
+
+# Ignore local config
+_config.local.yml
