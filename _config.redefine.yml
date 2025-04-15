@@ -131,7 +131,7 @@ home_banner:
   title: CC's Blog # title text
   # Home banner subtitle
   subtitle: 
-    text: [Love the World] # subtitle text, array
+    text: [Love Gao Weimin] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
